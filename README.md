@@ -1,5 +1,6 @@
 # ytdlp-cmd
-Simple and smol interface for ytdlp, making life a bit easier
+Simple and smol Youtube Downloader, making life a bit easier
+
 <br>
 yes download buttong yay
 
