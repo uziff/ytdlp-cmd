@@ -10,3 +10,6 @@ yes download buttong yay
        alt="Download ytdlp.bat"
        style="width:280px;height:280px;display:block;">
 </a>
+
+Support:
+https://dsc.gg/uzif 
